@@ -8,4 +8,4 @@ https://github.com/StarScorpion/Novnc-mod/blob/main/AUTHORS
 # How it looked:-
 <img src="http://novnc.com/img/noVNC-1-login.png" width=400>
 # How it looks(took a screenshot on mobile so sorry):-
-<img src="https://github.com/StarScorpion/Novnc-mod/modimg/ss.jpg">
+<img src="https://raw.githubusercontent.com/StarScorpion/Novnc-mod/main/modimg/ss.jpg">
