@@ -1,3 +1,6 @@
+[![Test Status](https://github.com/StarScorpion/Novnc-mod/workflows/Test/badge.svg)](https://github.com/StarScorpion/Novnc-mod/actions?query=workflow%3ATest)
+
+[![Lint Status](https://github.com/StarScorpion/Novnc-mod/workflows/Lint/badge.svg)](https://github.com/StarScorpion/Novnc-mod/actions?query=workflow%3ALint)
 # Novnc-mod
 A modded version of NoVNC client. <br>
 <b><p style="padding:0;margin:0;color:red;">This is more of a theme mod rather than a complete mod, I will update this soon.</p></b>
