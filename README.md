@@ -1,5 +1,6 @@
 # Novnc-mod
-A modded version of NoVNC client. 
+A modded version of NoVNC client. <br>
+<b><p style="padding:0;margin:0;color:red;">This is more of a theme mod rather than a complete mod, I will update this soon.</p></b>
 ⚠️: credits to the creators of noVNC.
 # For more info:-
 https://github.com/novnc/noVNC
