@@ -4,7 +4,7 @@ A modded version of NoVNC client.
 # For more info:-
 https://github.com/novnc/noVNC
 # Credits:-
-https://github.com/novnc/noVNC
+https://github.com/StarScorpion/Novnc-mod/blob/main/AUTHORS
 # How it looked:-
 <img src="http://novnc.com/img/noVNC-1-login.png" width=400>
 # How it looks(took a screenshot on mobile so sorry):-
