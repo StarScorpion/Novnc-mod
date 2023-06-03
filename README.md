@@ -2,6 +2,12 @@
 A modded version of NoVNC client. <br>
 <b><p style="padding:0;margin:0;color:red;">This is more of a theme mod rather than a complete mod, I will update this soon.</p></b>
 ⚠️: credits to the creators of noVNC.
+# Installation
+git clone https://github.com/StarScorpion/Novnc-mod.git
+# Usage
+<p>locationtoNovnc-mod/Novnc-mod/utils/novnc_proxy --listen PORT --vnc ADDRESS:PORT</p>
+<br />Example: ~/Novnc-mod/utils/novnc_proxy --listen 8080 --vnc localhost:5901
+
 # For more info:-
 https://github.com/novnc/noVNC
 # Credits:-
